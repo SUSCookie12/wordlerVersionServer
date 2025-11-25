@@ -1,5 +1,5 @@
 {
     "version": "0.1.0",
-    "downloadUrl": "https://github.com/your-username/your-repo/releases/download/v1.0.0/app-release.apk",
+    "downloadUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1102653104/80654263-b65b-4c33-af9f-b87ce8fc4cc7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-11-25T08%3A55%3A14Z&rscd=attachment%3B+filename%3DWordler-v0.1.6-WITH-ICON.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-11-25T07%3A54%3A57Z&ske=2025-11-25T08%3A55%3A14Z&sks=b&skv=2018-11-09&sig=lRn5JmPAcKKowgK5md8k%2FGOesaoURkfLE6K85QgeXTY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NDA2MDg5NywibmJmIjoxNzY0MDU3Mjk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.7K9YfX8R_7JXbA3dx0JqPDX3kP7HRblAWt7paJFRW4k&response-content-disposition=attachment%3B%20filename%3DWordler-v0.1.6-WITH-ICON.apk&response-content-type=application%2Fvnd.android.package-archive",
     "notes": "Init Demo Upload"
 }
