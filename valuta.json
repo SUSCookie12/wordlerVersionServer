@@ -1,1 +1,5 @@
-
+{
+    "version": "26.0.1",
+    "downloadAPK": "[latest_apk_direct_download_url]",
+    "downloadiOS": "[latest_ios_direct_download_url]"
+}
